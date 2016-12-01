@@ -1,9 +1,0 @@
-FOR CLASSIFIER 2 :
-	enron1 >> threshold= 0.5999997 nGRAM = 4
-	enron2 >> threshold= 0.30999997 nGRAM = 8
-	
-	
-FOR testAndTrainMethod1(DatasetName) /// tockenization method
-	enron1 ---> threshold = 0.529999
-	enron2 ---> threshold = 
-	enron3 ---> threshold = 
